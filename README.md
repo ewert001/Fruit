@@ -9,4 +9,6 @@ I will talk about types of fruit
 * Strawberries
 * Blueberries
 * Pears
+* Jackfruit
+* Kiwi
 
